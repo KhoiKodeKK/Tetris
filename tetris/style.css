@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#scoreboard{
+    font-size: 4em;
+    font-weight: 1em;
+    font-family: 'Geologica', sans-serif;
+    color: white;
+}
